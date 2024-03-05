@@ -38,13 +38,11 @@ def linear_regression(X1,y,learning_rate=0.1,num_iters=1000):
         #update theta using gradiant
         theta=learning_rate*(1/len(X1))*X.T.dot(errors)
     return theta
-
     data=pd.read_csv("50_Startups.csv")
     data.head()   
     #Assuming the Lost column is your target variable 'y'd
 X=(data.iloc [1:,:-2].values) 
 X1=X.astype(float)
-
 scaler=StandardScaler()
 y=(data.iloc[1:,-1].values).reshape(- 1, 1) 
 X1_Scaled=scaler.fit_transform(X1)
