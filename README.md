@@ -20,7 +20,7 @@ Program to implement the linear regression using gradient descent.
 Developed by: SANJAY ASHWIN P
 RegisterNumber: 212223040181
 */
-```
+
 
 import numpy as np
 import pandas as pd
@@ -57,7 +57,7 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
-
+```
 ## Output:
 ![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/36f9a69f-f339-430a-b1aa-6e5472fd6699)
 
