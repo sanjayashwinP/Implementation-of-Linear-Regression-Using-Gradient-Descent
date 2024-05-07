@@ -59,17 +59,13 @@ print(prediction)
 print(f"Predicted value: {pre}")
 ```
 ## Output:
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/36f9a69f-f339-430a-b1aa-6e5472fd6699)
+![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/aed9fe7d-8472-4030-a629-8026b0536d48)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/815d4160-1a96-4ee8-9a5b-f4096880ae90)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/2f8f4e23-6cc9-434c-9753-d0b40d862f20) 
+![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/c53f37c4-f3fa-4c94-9a8e-f5b77fb6829b)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/b7f72898-1a9b-4a88-9836-b36fbf363e60)
 
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/43c1de1d-955d-4a40-a852-2863fb2c1fad)
-
-![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/8a0eb588-5ba3-48b6-8236-d7a69318173e)
+![image](https://github.com/sanjayashwinP/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147473265/bb64e7aa-1a1c-4747-91b2-c5a045cdae23)
 
 
 
